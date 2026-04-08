@@ -24,11 +24,6 @@ function Navbar () {
                     {item.label}
                 </NavLink>
             ))}
-            {/* <NavLink className="nav-link" to="/">App</NavLink>
-            <NavLink className="nav-link" to="/home">Home</NavLink>
-            <NavLink className="nav-link" to="/profile">Profile</NavLink>
-            <NavLink className="nav-link" to="/article">Article</NavLink> 
-            <Navlink className="nav-link" to="/admin">AdminDashboard</NavLink>*/}
         </nav>
     )
 }
